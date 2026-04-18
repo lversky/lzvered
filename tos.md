@@ -113,14 +113,20 @@ The Bot owner reserves the right to:
 
 ## 9. Future Monetization
 
-LzveRed may introduce **subscription-based features or services** in the future. Additional terms may apply to paid features when released.
+LzveRed will introduce **subscription-based features or services** in the future; with a possible **pay for use** fee. These upgrades will include whitelabeling and more customization, among other things. Additional terms may apply to paid features when released.
 
 ---
 
-## 10. Contact Information
+## 10. Future Staff
+
+LzveRed may introduce global staff for the bot. These staff will be able to join your server when complaints arise as well as issue server warnings for breaking these Terms of Service. Global staff will also be able to run certain commands in any server, such as bot removal, server blacklisting, warnings to the server owner for misuse, and possibly other commands that are set to rise at some point in the future. Additional terms may apply if released.
+
+---
+
+## 11. Contact Information
 
 For support, legal concerns, or inquiries, contact:
 
 * **Owner:** LzveSky
-* **Email:** sky.16.biz@gmail.com
+* **Email:** sky.biz@icloud.com
 * **Discord:** LzveSky#0
