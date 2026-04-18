@@ -235,5 +235,5 @@ This Privacy Policy may be updated at any time. Continued use of the Bot constit
 For data requests, support, or legal concerns:
 
 * **Owner:** LzveSky
-* **Email:** sky.16.biz@gmail.com
+* **Email:** sky.biz@icloud.com
 * **Discord:** LzveSky#0
